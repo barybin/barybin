@@ -15,3 +15,7 @@ https://github.com/googlesamples/android-MultiWindowPlayground
 
 
 http://cxem.net/arduino/arduino64.php
+
+
+# Android
+http://www.customelectronics.xn--ru-llc6g/sozdaem-android-prilozhenie-dlya-upravleniya-domashnim-robotom-cherez-bluetooth/
