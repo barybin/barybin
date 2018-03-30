@@ -4,6 +4,7 @@
 https://github.com/googlesamples/android-BluetoothChat
 
 #Android BluetoothLeGatt Sample
+
 https://github.com/googlesamples/android-BluetoothLeGatt
 
 
