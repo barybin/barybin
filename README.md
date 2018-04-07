@@ -18,4 +18,4 @@ http://cxem.net/arduino/arduino64.php
 
 
 # Android
-http://www.customelectronics.xn--ru-llc6g/sozdaem-android-prilozhenie-dlya-upravleniya-domashnim-robotom-cherez-bluetooth/
+http://www.customelectronics.ru/sozdaem-android-prilozhenie-dlya-upravleniya-domashnim-robotom-cherez-bluetooth/
