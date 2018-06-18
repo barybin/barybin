@@ -26,3 +26,12 @@ http://www.customelectronics.ru/sozdaem-android-prilozhenie-dlya-upravleniya-dom
 
 #школа ANDRIO
 https://www.youtube.com/channel/UCshkdcYsuUSb34SgQq2GqDQ
+
+
+
+
+
+дополнить статью о 3G 4G модулях 
+https://www.toradex.com/pt-br/blog/how-to-use-gsm-3g-4g-in-embedded-linux-systems
+
+
