@@ -35,3 +35,5 @@ https://www.youtube.com/channel/UCshkdcYsuUSb34SgQq2GqDQ
 https://www.toradex.com/pt-br/blog/how-to-use-gsm-3g-4g-in-embedded-linux-systems
 
 
+// C linux proxy server
+http://w3cgeek.com/c-linux-proxy-server.html
